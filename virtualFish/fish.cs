@@ -13,6 +13,7 @@ public class Fish{
         return newOdds; 
     }
 
+  public int amountOfFish = 0; 
     
     public int catchRate = 0; 
 
